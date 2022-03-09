@@ -1,4 +1,4 @@
-# [dahabalealam.сщь](https://dahabalealam.сщь)
+# [dahabalealam.сщь](https://dahabalealam.com)
 dapp: https://dahabalealam.com
 
 ### Project Overview
