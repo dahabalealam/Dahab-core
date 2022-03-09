@@ -1,15 +1,10 @@
 # [dahabalealam.com](https://dahabalealam.com)
-dapp: https://dahabalealam.com
+Website: https://dahabalealam.com
 
 ### Project Overview
 
-roadmap: TODO
+WhitePaper: TODO
 
 #### Dahab Alealam Contracts
-- DHB Token: [0x0000000000000000000000000000000000000000](https://bscscan.com/address/0x0000000000000000000000000000000000000000)
+- DHB Token: [0x0000000000000000000000000000000000000000]
 
-# Contact Us
-- Twitter: 
-- Discord: 
-- Telegram: 
-- Email: 
