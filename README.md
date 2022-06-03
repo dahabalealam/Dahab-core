@@ -4,7 +4,7 @@ Website: https://dahabalealam.com
 
 ### Project Overview
 
-WhitePaper: 
+WhitePaper: https://dahabcrypto.gitbook.io/dahabalealam/
 
 #### Dahab Alealam Contracts
 - DHB Token: [0x910b1a1A603Dcc431CD0C5EB3c91553Ca728Aeaf]
